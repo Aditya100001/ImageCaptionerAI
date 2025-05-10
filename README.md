@@ -27,8 +27,8 @@ A lightweight GenAI project that automatically generates captions for uploaded i
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/ai-captioner.git
-cd ai-captioner
+git clone https://github.com/your-username/ImageCaptionerAI.git
+cd ImageCaptionerAI
 
 ```
 ###  2. Create a Virtual Environment
